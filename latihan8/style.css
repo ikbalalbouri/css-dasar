@@ -1,0 +1,9 @@
+/* Buat elemen yang diingikan agar menjadi lebih spesifik */
+ul#sarapan li   {
+    color: green;
+}
+
+/* tambahkan beban pada element tersebut  agar semakin berat */
+ul#sarapan .favorit    {
+    color: red;
+}

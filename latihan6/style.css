@@ -1,0 +1,32 @@
+a.hello {
+    text-decoration: none;
+}
+.hello:link {
+    color: yellow;
+}
+
+.hello:hover    {
+    font-size: 30px;
+    color: salmon;
+    font-style: italic;
+}
+
+.hello:active   {
+    color: black;
+}
+
+.hello:visited  {
+    color: red;
+}
+
+li:nth-child(odd) a  {
+    color: green;
+}
+
+li:nth-child(odd) a:hover   {
+    color: red;
+}
+
+p:last-of-type {
+    color: red;
+}

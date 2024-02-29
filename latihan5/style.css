@@ -1,0 +1,31 @@
+body    {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h2  {
+    color: aqua;
+}
+
+ul li a   {
+    color: salmon;
+}
+
+ol li a {
+    color: aqua;
+}
+
+#p1 {
+    color: red;
+}
+
+.p2 {
+    color: blue;
+}
+
+.cetak-tebal    {
+    font-weight: bold;
+}
+
+p.cetak-tebal   {
+    font-size: 30px;
+}
